@@ -1,3 +1,0 @@
-![The origin](./Art/Containment.webp)
-
-You are not supposed to be here....
